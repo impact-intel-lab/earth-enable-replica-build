@@ -1,5 +1,5 @@
 
-import { AlertTriangle, Wind, Factory } from 'lucide-react';
+import { AlertTriangle, Wind, Factory, ArrowRight } from 'lucide-react';
 
 const Problem = () => {
   return (
